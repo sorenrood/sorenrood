@@ -1,4 +1,4 @@
-### ⚡ You can learn more about me at https://sorenrood.com
+### ⚡ Check out my website ⚡ https://sorenrood.com
 
 <!--
 **sorenrood/sorenrood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
