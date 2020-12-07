@@ -1,11 +1,36 @@
-### My website: https://sorenrood.com
-![Profile Badge](https://img.shields.io/badge/Profile-sorenrood-63d8fa?logo=github&style=for-the-badge&link=https://github.com/sorenrood)
-![Github stats](https://img.shields.io/github/followers/sorenrood?color=63d8fa&label=FOLLOWERS&logo=github&style=for-the-badge&count_private=true)
+<h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 
+My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
+- 🎓 a sophomore at Seattle Pacific University,
+- 🚀 studying computer science and finance,
+- 🧬 a software developer for [@capital-prawn](http://www.capitalprawn.com/) working on financial systems,
+- ✏️ co-founder of [@Tutorly](https://www.tutorly.app). 
 
-<a href="https://sorenrood.com/links.html">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sorenrood&show_icons=true&theme=react&custom_title=Github%20Stats&include_all_commits=true&count_private=true" height="170"/>
-</a>
-<a href="https://sorenrood.com/links.html">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorenrood&exclude_repo=FRC7447-2020&layout=compact&custom_title=Language%20Distribution&bg_color=21232a&title_color=63d8fa&text_color=fefefe" height="170"/>
-</a>
+In my free time, I drink coffee, write code, and host a [podcast](https://onthesink.com) (first episode in January).
+
+<br/>
+
+<div>
+  <a href="https://sorenrood.com/links.html">
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=sorenrood&show_icons=true&theme=dark&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true&theme=react"/>
+  </a>
+</div>
+
+<br/>
+
+<br/>
+
+<p align="center">
+  <a href="https://twitter.com/sorenrude">
+    <img alt="Soren's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sorenrood/">
+    <img alt="Soren''s LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sorenrood/">
+    <img alt="Soren's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
