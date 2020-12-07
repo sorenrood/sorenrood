@@ -12,7 +12,7 @@ In my free time, I drink coffee, write code, and host a [podcast](https://onthes
 
 <div>
   <a href="https://sorenrood.com/links.html">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=sorenrood&show_icons=true&theme=dark&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true&theme=react"/>
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=sorenrood&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
