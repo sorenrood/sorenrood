@@ -6,7 +6,7 @@ My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
 - 🧬 a software developer for [@capital-prawn](http://www.capitalprawn.com/) working on automating financial systems,
 - ✏️ co-founder of [@Tutorly](https://www.tutorly.app). 
 
-In my free time, I drink coffee, write code, and host a [podcast](https://onthesink.com) (first episode in January).
+In my free time, I drink coffee, write code, and host a podcast (first episode in January).
 
 <br/>
 
