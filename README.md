@@ -1,7 +1,7 @@
 <h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 
 My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
-- 🎓 a sophomore at [Seattle Pacific University](https://spu.edu/),
+- 🎓 a sophomore at Seattle Pacific University,
 - 🚀 studying computer science and finance,
 - 💻 a software developer at [Capital Prawn](http://www.capitalprawn.com/) working on automating financial systems.
 
