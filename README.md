@@ -5,8 +5,6 @@ My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
 - 🚀 studying computer science and finance,
 - 💻 a software developer at [Capital Prawn](http://www.capitalprawn.com/) working on automating financial systems.
 
-In my free time, I drink coffee, write code, and host a podcast (coming soon).
-
 <br/>
 
 <div>
