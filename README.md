@@ -4,6 +4,7 @@ My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
 - 🎓 a sophomore at Seattle Pacific University,
 - 🚀 studying computer science and finance,
 - 💻 a software developer at [Capital Prawn](http://www.capitalprawn.com/)
+- :fire: working on [blubbr.io](https://blubbr.io/discord)
 
 <br/>
 
