@@ -2,7 +2,7 @@
 
 My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
 - 🎓 a sophomore at Seattle Pacific University,
-- 🚀 studying computer science and finance,
+- 🚀 studying computer science and art,
 - 💻 a software developer at [Capital Prawn](http://www.capitalprawn.com/)
 - :octopus: an incoming infrastructure intern at [OctoML](https://octoml.ai) (summer 2021)
 - :whale: working on [blubbr.io](https://blubbr.io/discord)
