@@ -19,7 +19,7 @@ My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
 <br/>
 
 <p align="center">
-  <a href="https://twitter.com/sorenrude">
+  <a href="https://twitter.com/roodsoren">
     <img alt="Soren's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     
   </a>
