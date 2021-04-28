@@ -27,8 +27,4 @@ My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
   <a href="https://www.linkedin.com/in/sorenrood/">
     <img alt="Soren''s LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sorenrood/">
-    <img alt="Soren's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
 </p>
