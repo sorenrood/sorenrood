@@ -3,7 +3,7 @@
 My name is [Soren Rood](https://sorenrood.com/links.html) and I am...
 - 💻 working [@replit](https://replit.com)
 - 🎓 a sophomore at Seattle Pacific University,
-- 🚀 studying computer science and design,
+- 🚀 studying computer science,
 
 <br/>
 
