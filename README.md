@@ -1,6 +1,6 @@
 <h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 
-I'm [Søren](https://sorenrood.com/links.html). I am working at [Replit](https://replit.com) and studying computer science @ SPU.
+I'm [Søren](https://sorenrood.com/links.html). I'm currently working at [Replit](https://replit.com) while studying CS in Seattle.
 
 <br/>
 
